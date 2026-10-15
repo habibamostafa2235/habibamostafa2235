@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Habiba Mostafa 👋</h1>
 
 <p align="center">
-Business Information Systems Student • Aspiring Data Analyst • Final Semester
+Business Information Systems Student •  Data Analyst • Final Semester
 </p>
 
 ---
